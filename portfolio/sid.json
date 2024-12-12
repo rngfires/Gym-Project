@@ -1,0 +1,88 @@
+{
+  "Home": [
+    {
+      "id": "a-1",
+      "name": "Fit With Deepak ",
+      "desc": "Mumbai , Maharashtra"
+    }
+  ],
+  "About": [
+    {
+      "id": "b-1",
+      "h1": "About Me",
+      "p": "Mr. Deepak Jha is a bodybuilder, a fitness influencer & certified nutritionist with further than 7 years of experience. Having times of experience, knowledge, and strong devotion is what makes him one of the finest fitness experts, he has great training devotion for fitness freaks.",
+      "button": "View More"
+    }
+  ],
+  "card": [
+    {
+      "id": "r-1",
+      "head": "Monthly Plans",
+      "p1": "weekly  growth check",
+      "p2": "your genetic diet or exercise report ",
+      "p3": " Diet plan",
+      "p4": "Exercise Suggestions"
+    },
+    {
+      "id": "r-2",
+      "head": "QUARTERLY Plan",
+      "p1": "Your genetic diet & exercise report",
+      "p2": "Your genetic diet & exercise infographic ",
+      "p3": " Diet plan",
+      "p4": "Exercise Suggestions"
+    },
+    {
+      "id": "r-3",
+      "head": "HALF YEARLY Plan",
+      "p1": "weekly  growth check",
+      "p2": "your genetic diet or exercise report ",
+      "p3": " Diet plan",
+      "p4": "Exercise Suggestions"
+    },
+    {
+      "id": "r-4",
+      "head": "YEARLY Plan",
+      "p1": "weekly  growth check",
+      "p2": "your genetic diet or exercise report ",
+      "p3": " Diet plan",
+      "p4": "Exercise Suggestions"
+    }
+  ],
+  "contact": [
+    {
+      "id": "a8a2",
+      "name": "rohan Gawade",
+      "email": "rohangawade064@gmail.com",
+      "mobileno": "748343249389",
+      "message": "hfdkjalhfjdlahjkfh"
+    },
+    {
+      "id": "4043",
+      "name": "Deepak jha",
+      "email": "rngfires@gmail.com",
+      "mobileno": "9769637063",
+      "message": "yess i am rohan gawade"
+    },
+    {
+      "id": "11f0",
+      "name": "Siddhi ",
+      "email": "siddhi@gmail.com",
+      "mobileno": "9769637063",
+      "message": "Hello , I Am Siddhi"
+    },
+    {
+      "id": "3de8",
+      "name": "Siddhi ",
+      "email": "siddhi@gmail.com",
+      "mobileno": "9769637063",
+      "message": "ww3"
+    },
+    {
+      "id": "a333",
+      "name": "rr",
+      "email": "dee",
+      "mobileno": "rrr",
+      "message": "ggg"
+    }
+  ]
+}
